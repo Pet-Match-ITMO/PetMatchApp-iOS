@@ -8,7 +8,7 @@
 
 import Foundation
 import UIKit.UIImage
-@testable import CountriesSwiftUI
+@testable import PetMatchSwiftUI
 
 class TestWebRepository: WebRepository {
     let session: URLSession = .mockedResponsesOnly

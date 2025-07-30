@@ -7,7 +7,7 @@
 //
 
 import SwiftData
-@testable import CountriesSwiftUI
+@testable import PetMatchSwiftUI
 
 // MARK: - CountriesWebRepository
 

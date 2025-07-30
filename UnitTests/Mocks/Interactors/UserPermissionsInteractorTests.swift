@@ -9,7 +9,7 @@
 import Testing
 import Combine
 import UserNotifications
-@testable import CountriesSwiftUI
+@testable import PetMatchSwiftUI
 
 @Suite struct UserPermissionsInteractorTests {
 

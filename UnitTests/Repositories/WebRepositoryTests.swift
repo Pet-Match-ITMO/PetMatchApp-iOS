@@ -9,7 +9,7 @@
 import Testing
 import Combine
 import Foundation
-@testable import CountriesSwiftUI
+@testable import PetMatchSwiftUI
 
 @Suite(.serialized) final class WebRepositoryTests {
 
